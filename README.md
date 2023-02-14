@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on **[Discord bot](https://github.com/Ethanol48/Annas-Archive-bot)**
 
-- 🌱 I’m currently learning <span>**Web Development**</span>
+- 🌱 I’m currently learning <span>**Vue.js**</span>
 
 - 📫 How to reach me **ethan.rouimi@yahoo.com**
 
@@ -37,8 +37,6 @@ Here are some ideas to get you started:
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/ethan-rouimi-6b0a17171" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ethan-rouimi-6b0a17171" height="30" width="40" /></a>
 </p>
-
-<p> </p>
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/ethan48"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://www.buymeacoffee.com/ethan48" /></a></p><br><br>
