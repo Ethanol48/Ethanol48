@@ -35,7 +35,7 @@ Here are some ideas to get you started:
 
   ![Top Langs](https://github-readme-stats-livid-one-80.vercel.app/api/top-langs/?username=ethanol48&bg_color=000000&text_color=f7f7f7&border_color=000000&count_private=true&layout=compact&title_color=f5f5f5&text_bold=true&hide=jupyter%20notebook&langs_count=6&hide_title=true&card_width=450px)
   
-  
+<!--   
  ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
@@ -43,7 +43,7 @@ Here are some ideas to get you started:
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=AVS1508&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="[https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AVS1508&layout=compact&langs_count=8&theme=algolia](https://github-readme-stats-livid-one-80.vercel.app/api/top-langs/?username=ethanol48&bg_color=000000&text_color=f7f7f7&border_color=000000&count_private=true&layout=compact&title_color=f5f5f5&text_bold=true&hide=jupyter%20notebook&langs_count=6&hide_title=true&card_width=450px)"/>
 </a>
-</p>
+</p> -->
 
 
 <h3 align="left" style="margin-top: 50px; margin-bottom: 30px">Languages and Tools:</h3>
