@@ -12,22 +12,22 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<div style="text-align: left;">
-  <h1 align="left">Hi 👋, I'm Ethan</h1>
-  <h2 align="left">A passionate developer from Spain
+<div style="text-align: center;">
+  <h1 align="center">Hi 👋, I'm Ethan</h1>
+  <h2 align="center">A passionate developer from Spain
   </h2>
 </div>
 
-<div style="padding-top: 500px">
-  <p align="left">📫 How to reach me <a href="mailto:ethan.rouimi@yahoo.com">ethan.rouimi@yahoo.com</a></p>
 
-  <p align="left">🔭 I’m currently working on <a href="https://github.com/Ethanol48/Annas-Archive-bot">Discord bot</a></p>
+### - 📫 How to reach me <a href="mailto:ethan.rouimi@yahoo.com">ethan.rouimi@yahoo.com</a></p>
 
-  <p align="left">🌱 I’m currently learning <a href="https://vuejs.org/">Vue.js</a></p>
+### - 🔭 I’m currently working on <a href="https://github.com/Ethanol48/Annas-Archive-bot">Discord bot</a></p>
 
-  <p align="left">⚡ Fun fact! : <span style="color:#e7f7b7">I'm the best at what I do</span></p>
-</div>
+### - 🌱 I’m currently learning <a href="https://vuejs.org/">Vue.js</a></p>
 
+### - ⚡ Fun fact!! : I'm the best at what I do
+
+---
 
 <!-- <div align="left" style="margin-top: 40px">
 
