@@ -57,6 +57,6 @@ Here are some ideas to get you started:
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/ethan-rouimi-6b0a17171" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ethan-rouimi-6b0a17171" height="30" width="40" /></a>
 </p>
 
-<h3 style="text-align: left;  padding-top: 10px">Support:</h3>
+### ☕️ &nbsp;Support:
 <p style="text-align: left;"><a href="https://www.buymeacoffee.com/ethan48"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://www.buymeacoffee.com/ethan48" /></a></p><br><br>
 </div>
