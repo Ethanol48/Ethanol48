@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 
 ### - ⚡ Fun fact!! : I'm the best at what I do
 
-### - 📫 How to reach me <a href="mailto:ethan.rouimi@yahoo.com">ethan.rouimi@yahoo.com</a></p>
+### - 📫 How to reach me <a href="mailto:contact@ethan-rouimi.com">contact@ethan-rouimi.com</a></p>
 
 ---
   
