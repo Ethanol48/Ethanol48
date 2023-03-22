@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 
 
-### - 🔭 I’m currently working on Blockchain Development</p>
+### - 🔭 I’m currently working on Blockchain Development ⛓</p>
 
 ### - 🌱 I’m currently learning <a href="https://soliditylang.org">Solidity</a></p>
 
