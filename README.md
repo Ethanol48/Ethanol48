@@ -20,9 +20,9 @@ Here are some ideas to get you started:
 
 
 
-### - 🔭 I’m currently working on <a href="https://github.com/Ethanol48/Annas-Archive-bot">Discord bot</a></p>
+### - 🔭 I’m currently working on Blockchain Development</p>
 
-### - 🌱 I’m currently learning <a href="https://vuejs.org/">Vue.js</a></p>
+### - 🌱 I’m currently learning <a href="https://soliditylang.org">Solidity</a></p>
 
 ### - ⚡ Fun fact!! : I'm the best at what I do
 
