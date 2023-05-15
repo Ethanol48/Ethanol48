@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 ### - 🔭 I’m currently working on Blockchain Development ⛓</p>
 
-### - 🌱 I’m currently learning <a href="https://soliditylang.org">Solidity</a> and <a href="https://www.rust-lang.org">Rust</a></p>
+### - 🌱 I’m currently learning <a href="https://soliditylang.org">Solidity</a>
 
 ### - ⚡ Fun fact!! : I'm the best at what I do
 
