@@ -20,9 +20,9 @@ Here are some ideas to get you started:
 
 
 
-### - 🔭 I’m currently working on Blockchain Development ⛓</p>
+### - 🔭 I’m currently working on a new rentable NFT standard!! ⛓</p>
 
-### - 🌱 I’m currently learning Smart Contract Security with Solidity
+### - 🌱 I’m currently learning advanced Yul in Solidity Smart Contracts
 
 ### - 📫 How to reach me <a href="mailto:contact@ethan-rouimi.com">contact@ethan-rouimi.com</a></p>
 
@@ -74,6 +74,9 @@ Here are some ideas to get you started:
 <h3 align="center">💻 &nbsp;Connect with me:</h3>
 <p align="center">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/ethan-rouimi-6b0a17171" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ethan-rouimi-6b0a17171" height="30" width="40" /></a>
+<a href="https://medium.com/@ethan-rouimi"> <img align="center" src="pending" alt="https://www.medium.com/@ethan-rouimi" height="30" width="40" />
+  
+</a>
 </p>
 
 <h3 align="center">☕️ &nbsp;Support:</h3>
