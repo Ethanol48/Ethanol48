@@ -20,11 +20,11 @@ Here are some ideas to get you started:
 
 
 
-### - 🔭 I’m currently working on a new rentable NFT standard!! ⛓</p>
+### - 🔭 I’m currently working on a new rentable NFT standard!! ⛓ 
 
-### - 🌱 I’m currently learning advanced Yul in Solidity Smart Contracts
+### - 🌱 I’m currently learning advanced Yul in Solidity Smart Contracts 
 
-### - 📫 How to reach me <a href="mailto:contact@ethan-rouimi.com">contact@ethan-rouimi.com</a></p>
+### - 📫 How to reach me <a href="mailto:contact@ethan-rouimi.com">contact@ethan-rouimi.com</a>
 
 ---
   
