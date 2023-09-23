@@ -14,15 +14,14 @@ Here are some ideas to get you started:
 -->
 <div style="text-align: center;">
   <h1 align="center">Hi 👋, I'm Ethan</h1>
-  <h2 align="center">A passionate developer from Spain
-  </h2>
+  <h2 align="center">A passionate developer from Spain </h2>
 </div>
 
 
 
-### - 🔭 I’m currently working on a new rentable NFT standard!! ⛓ 
-### - 🌱 I’m currently learning advanced Yul in Solidity Smart Contracts 
-### - 📫 How to reach me <a href="mailto:contact@ethan-rouimi.com">contact@ethan-rouimi.com</a>
+###  🔭 I’m currently working on a new rentable NFT standard!! ⛓ 
+###  🌱 I’m currently learning advanced Yul in Solidity Smart Contracts 
+###  📫 How to reach me <a href="mailto:contact@ethan-rouimi.com">contact@ethan-rouimi.com</a>
 
 ---
   
