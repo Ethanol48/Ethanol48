@@ -33,13 +33,13 @@ Here are some ideas to get you started:
 
 <h3 align="center"> :zap: Recent Activity </h3>
 
-<p align="center">
+
 
 <!--START_SECTION:activity-->
 
-<!--END_SECTION:activity-->
 
-</p>   
+
+
   
  <h3 align="center">⚙️ &nbsp;GitHub Analytics</h3>
 
