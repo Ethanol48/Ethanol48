@@ -12,6 +12,6 @@ jobs:
 
     steps:
       - uses: actions/checkout@v3
-      - uses: Ethanol48/github-activity-readme@]testing
+      - uses: Ethanol48/github-activity-readme@testing
         env:
           GITHUB_TOKEN: ${{ secrets.TOKEN }}
