@@ -36,11 +36,15 @@ Here are some ideas to get you started:
 
 <div align="center">
 
+
+
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#3](https://github.com/Ethanol48/Ethanol48/pull/3) in [Ethanol48/Ethanol48](https://github.com/Ethanol48/Ethanol48)
-2. 💪 Opened PR [#3](https://github.com/Ethanol48/Ethanol48/pull/3) in [Ethanol48/Ethanol48](https://github.com/Ethanol48/Ethanol48)
+
 
 <!--END_SECTION:activity-->
+
+
+
 
 </div>
 
