@@ -36,6 +36,12 @@ Here are some ideas to get you started:
 
 
 <!--START_SECTION:activity-->
+1. ❌ Closed PR [#3](https://github.com/Ethanol48/Ethanol48/pull/3) in [Ethanol48/Ethanol48](https://github.com/Ethanol48/Ethanol48)
+2. 💪 Opened PR [#3](https://github.com/Ethanol48/Ethanol48/pull/3) in [Ethanol48/Ethanol48](https://github.com/Ethanol48/Ethanol48)
+3. 🎉 Merged PR [#2](https://github.com/Ethanol48/Ethanol48/pull/2) in [Ethanol48/Ethanol48](https://github.com/Ethanol48/Ethanol48)
+4. 💪 Opened PR [#2](https://github.com/Ethanol48/Ethanol48/pull/2) in [Ethanol48/Ethanol48](https://github.com/Ethanol48/Ethanol48)
+5. 🗣 Commented on [#1](https://github.com/Cyfrin/2023-10-PasswordStore/issues/1#issuecomment-1770974861) in [Cyfrin/2023-10-PasswordStore](https://github.com/Cyfrin/2023-10-PasswordStore)
+<!--END_SECTION:activity-->
 
 
 
