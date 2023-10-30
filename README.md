@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 <h3 align="center"> :zap: Recent Activity </h3>
 
 
-<div align="center">
+
 
 
 
@@ -45,8 +45,6 @@ Here are some ideas to get you started:
 
 
 
-
-</div>
 
 
 
