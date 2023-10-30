@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 <h3 align="center"> :zap: Recent Activity </h3>
 
 
-<div style="text-align: center;">
+<div align="center">
 
 <!--START_SECTION:activity-->
 1. ❌ Closed PR [#3](https://github.com/Ethanol48/Ethanol48/pull/3) in [Ethanol48/Ethanol48](https://github.com/Ethanol48/Ethanol48)
