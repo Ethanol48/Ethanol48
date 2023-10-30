@@ -34,6 +34,7 @@ Here are some ideas to get you started:
 <h3 align="center"> :zap: Recent Activity </h3>
 
 
+<div style="text-align: center;">
 
 <!--START_SECTION:activity-->
 1. ❌ Closed PR [#3](https://github.com/Ethanol48/Ethanol48/pull/3) in [Ethanol48/Ethanol48](https://github.com/Ethanol48/Ethanol48)
@@ -43,6 +44,7 @@ Here are some ideas to get you started:
 5. 🗣 Commented on [#1](https://github.com/Cyfrin/2023-10-PasswordStore/issues/1#issuecomment-1770974861) in [Cyfrin/2023-10-PasswordStore](https://github.com/Cyfrin/2023-10-PasswordStore)
 <!--END_SECTION:activity-->
 
+</div>
 
 
 
