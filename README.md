@@ -31,7 +31,7 @@ Here are some ideas to get you started:
   ![Top Langs](https://github-readme-stats-livid-one-80.vercel.app/api/top-langs/?username=ethanol48&bg_color=000000&text_color=f7f7f7&border_color=000000&count_private=true&layout=compact&title_color=f5f5f5&text_bold=true&hide=jupyter%20notebook&langs_count=6&hide_title=true&card_width=450px)
    -->
 
-<h3 align="center"> :zap: Recent Activity </h3>
+<!-- <h3 align="center"> :zap: Recent Activity </h3> -->
 
 
 
