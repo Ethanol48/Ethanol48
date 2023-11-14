@@ -19,8 +19,8 @@ Here are some ideas to get you started:
 
 
 
-###  🔭 I’m currently working on a new rentable NFT standard!! ⛓ 
-###  🌱 I’m currently learning advanced Yul in Solidity Smart Contracts 
+###  🔭 I’m currently working on the Constellation Hackathon ⛓ 
+###  🌱 I’m currently learning about web scrapping with Golang
 ###  📫 How to reach me <a href="mailto:contact@ethan-rouimi.com">contact@ethan-rouimi.com</a>
 
 ---
