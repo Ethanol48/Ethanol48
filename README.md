@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 <div style="text-align: center;">
   <h1 align="center">Hi 👋, I'm Ethan</h1>
   <h2 align="center">A passionate developer from Spain </h2>
-  <h2 align="center">Fun fact: I love what I do!! 👨🏽‍💻</h2>
+  <h2 align="center"></h2>
 </div>
 
 
@@ -23,6 +23,7 @@ Here are some ideas to get you started:
 ###  🔭 I’m currently working on the Constellation Hackathon ⛓ 
 ###  🌱 I’m currently learning about web scrapping with Golang
 ###  📫 How to reach me <a href="mailto:contact@ethan-rouimi.com">contact@ethan-rouimi.com</a>
+###  ⚡ Fun fact: I love what I do!! 👨🏽‍💻
 
 ---
   
