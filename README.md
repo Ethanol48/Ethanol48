@@ -14,16 +14,15 @@ Here are some ideas to get you started:
 -->
 <div style="text-align: center;">
   <h1 align="center">Hi 👋, I'm Ethan</h1>
-  <h2 align="center">A passionate developer from Spain </h2>
-  <h2 align="center"></h2>
+  <h2 align="center">A passionate developer from Spain 🇪🇸</h2>
 </div>
 
-
-
-###  🔭 I’m currently working on the Constellation Hackathon ⛓ 
-###  🌱 I’m currently learning about web scrapping with Golang
-###  📫 How to reach me <a href="mailto:contact@ethan-rouimi.com">contact@ethan-rouimi.com</a>
-###  ⚡ Fun fact: I love what I do!! 👨🏽‍💻
+<div align="center">
+  <h3> 🔭 I’m currently working on the Constellation Hackathon ⛓ </h3>
+  <h3> 🌱 I’m currently learning about web scrapping with Golang </h3>
+  <h3> 📫 How to reach me <a href="mailto:contact@ethan-rouimi.com">contact@ethan-rouimi.com</a> </h3>
+  <h3> ⚡ Fun fact: I love what I do!! 👨🏽‍💻 </h3>
+</div>
 
 ---
   
