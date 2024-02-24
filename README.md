@@ -75,7 +75,7 @@ Here are some ideas to get you started:
 
 <div align="center">
 <a href="https://soliditylang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/Ethanol48/ProfileResources/master/images/solidity.svg" alt="solidity" width="40" height="40"/> </a>
-<a href="https://ethereum.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/ethereum/ethereum-org-website/dev/public/assets/svgs/eth-diamond-black-white.svg" alt="ethereum" width="40" height="40"/> </a>
+<a href="https://ethereum.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/ethereum/ethereum-org-website/dev/public/assets/svgs/eth-glyph-colored.svg"alt="ethereum" width="40" height="40"/> </a>
 <a href="https://book.getfoundry.sh/" target="_blank" rel="noreferrer"> <img src="https://github.com/foundry-rs/foundry/blob/master/.github/logo.png" alt="foundry" width="40" height="40"/> </a>
 
 
