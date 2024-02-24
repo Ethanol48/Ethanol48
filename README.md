@@ -18,8 +18,8 @@ Here are some ideas to get you started:
 </div>
 
 <div align="center">
-  <h3> 🔭 I’m currently working on the Constellation Hackathon ⛓ </h3>
-  <h3> 🌱 I’m currently learning about web scrapping with Golang </h3>
+  <h3> 🔭 I’m currently looking to expand my knowledge 📚</h3>
+  <h3> 🌱 I’m currently experimenting with IOS development 🍎</h3>
   <h3> 📫 How to reach me <a href="mailto:contact@ethan-rouimi.com">contact@ethan-rouimi.com</a> </h3>
   <h3> ⚡ Fun fact: I love what I do!! 👨🏽‍💻 </h3>
 </div>
