@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 <div align="center">
   <h3> 🔭 I’m currently looking to expand my knowledge 📚</h3>
-  <h3> 🌱 I’m currently experimenting with IOS development 🍎</h3>
+  <h3> 🌱 I’m currently learning about coding patterns and algorithms</h3>
   <h3> 📫 How to reach me <a href="mailto:contact@ethan-rouimi.com">contact@ethan-rouimi.com</a> </h3>
   <h3> ⚡ Fun fact: I love what I do!! 👨🏽‍💻 </h3>
 </div>
