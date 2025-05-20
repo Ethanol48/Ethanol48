@@ -70,12 +70,19 @@ Here are some ideas to get you started:
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a><a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
-<a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a>
+
 
 <div align="center">
+
+<!--
+<a href="https://www.rust-lang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Rust" width="40" height="40"/> </a>
+-->
+
+
+<a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a>
 <a href="https://soliditylang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/Ethanol48/ProfileResources/master/images/solidity.svg" alt="solidity" width="40" height="40"/> </a>
-<a href="https://ethereum.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/ethereum/ethereum-org-website/dev/public/assets/svgs/eth-glyph-colored.svg"alt="ethereum" width="40" height="40"/> </a>
-<a href="https://book.getfoundry.sh/" target="_blank" rel="noreferrer"> <img src="https://github.com/foundry-rs/foundry/blob/master/.github/logo.png" alt="foundry" width="40" height="40"/> </a>
+<a href="https://ethereum.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/ethereum/ethereum-org-website/refs/heads/dev/public/images/eth-org-logo.png" alt="ethereum" width="40" height="40"/> </a>
+<a href="https://book.getfoundry.sh/" target="_blank" rel="noreferrer"> <img src="https://avatars.githubusercontent.com/u/99892494?s=200&v=4" alt="foundry" width="40" height="40"/> </a>
 
 
 
