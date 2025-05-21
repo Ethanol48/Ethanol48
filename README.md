@@ -18,7 +18,6 @@ Here are some ideas to get you started:
 </div>
 
 <div align="center">
-  <h3> 🔭 I’m currently building a platform for invoices</h3>
   <h3> 📫 How to reach me <a href="mailto:contact@ethan-rouimi.com">contact@ethan-rouimi.com</a> </h3>
   <h3> ⚡ Fun fact: I love what I do!! 👨🏽‍💻 </h3>
 </div>
@@ -61,38 +60,13 @@ Here are some ideas to get you started:
 
 
 <h3 align="center">🧰 &nbsp;Languages and Tools:</h3>
-<p align="center">
-<a href="https://www.python.org" target="_blank" rel="noreferrer"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a><a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
-<img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fraw.githubusercontent.com%2Fodb%2Fofficial-bash-logo%2Fmaster%2Fassets%2FLogos%2FIcons%2FPNG%2F512x512.png&f=1&nofb=1&ipt=a6efe9f555c19d83bb9c7112029a712c4bb78bf752167f4db7200c1a68e35b07&ipo=images" alt="bash" width="40" height="40"/> </a><a href="https://golang.org" target="_blank" rel="noreferrer"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a><a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a><a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
-<a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
+<div align="center">
 
+[![My Skills](https://skillicons.dev/icons?i=linux,arch,bash,solidity,docker,rust,py,cs)](https://skillicons.dev)
 
 <div align="center">
 
-<!--
-<a href="https://www.rust-lang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Rust" width="40" height="40"/> </a>
--->
-
-
-<a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a>
-<a href="https://soliditylang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/Ethanol48/ProfileResources/master/images/solidity.svg" alt="solidity" width="40" height="40"/> </a>
-<a href="https://ethereum.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/ethereum/ethereum-org-website/refs/heads/dev/public/images/eth-org-logo.png" alt="ethereum" width="40" height="40"/> </a>
-<a href="https://book.getfoundry.sh/" target="_blank" rel="noreferrer"> <img src="https://avatars.githubusercontent.com/u/99892494?s=200&v=4" alt="foundry" width="40" height="40"/> </a>
-
-
-
-
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          
-</a>
-
-
-  
-</p>
+[![My Skills](https://skillicons.dev/icons?i=svelte,ts,js,html,css)](https://skillicons.dev)
 
 
 
