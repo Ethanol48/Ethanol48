@@ -25,9 +25,9 @@ Here are some ideas to get you started:
 ---
   
 <!-- 
-  ![Ethan's GitHub stats](https://github-readme-stats-livid-one-80.vercel.app/api?username=ethanol48&show_icons=true&bg_color=000000&text_color=f7f7f7&border_color=000000&ring_color=f79000&icon_color=f79000&title_color=f5f5f5&text_bold=false&count_private=true&card_width=500px)
+  ![Ethan's GitHub stats](https://github-readme-stats-livid-one-80.vercel.app/api?username=ethanol48&show_icons=true&bg_color=f0f0f0&text_color=000000&border_color=000000&ring_color=10a608&icon_color=10a608&title_color=000000&text_bold=false&count_private=true&card_width=500px)
 
-  ![Top Langs](https://github-readme-stats-livid-one-80.vercel.app/api/top-langs/?username=ethanol48&bg_color=000000&text_color=f7f7f7&border_color=000000&count_private=true&layout=compact&title_color=f5f5f5&text_bold=true&hide=jupyter%20notebook&langs_count=6&hide_title=true&card_width=450px)
+  ![Top Langs](https://github-readme-stats-livid-one-80.vercel.app/api/top-langs/?username=ethanol48&bg_color=f0f0f0&text_color=000000&border_color=000000&count_private=true&layout=compact&title_color=000000&text_bold=true&hide=jupyter%20notebook&langs_count=6&hide_title=true&card_width=450px)
    -->
 
 <!-- <h3 align="center"> :zap: Recent Activity </h3> -->
