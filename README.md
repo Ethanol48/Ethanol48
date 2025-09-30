@@ -72,7 +72,7 @@ Here are some ideas to get you started:
 
 <h3 align="center">💻 &nbsp;Connect with me:</h3>
 <p align="center">
-<a href="https://www.linkedin.com/in/ethan-rouimi" target="blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="https://www.linkedin.com/in/ethan-rouimi" height="50" width="50"/></a>&nbsp; &nbsp;<a href="https://ethan-rouimi.medium.com/"> <img align="center" src="https://raw.githubusercontent.com/Ethanol48/ProfileResources/master/images/medium.svg" alt="https://www.medium.com/@ethan-rouimi" height="50" width="50" /></a>&nbsp;<a href="https://t.me/EthanRouimi"> <img align="center" src="https://raw.githubusercontent.com/Ethanol48/ProfileResources/master/images/telegram.svg" alt="https://t.me/EthanRouimi" height="50" width="50" /></a>
+<a href="https://www.linkedin.com/in/ethan-rouimi" target="blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="https://www.linkedin.com/in/ethan-rouimi" height="50" width="50"/></a>&nbsp; &nbsp;<a href="https://medium.com/@ethan-rouimi"> <img align="center" src="https://raw.githubusercontent.com/Ethanol48/ProfileResources/master/images/medium.svg" alt="https://www.medium.com/@ethan-rouimi" height="50" width="50" /></a>&nbsp;<a href="https://t.me/EthanRouimi"> <img align="center" src="https://raw.githubusercontent.com/Ethanol48/ProfileResources/master/images/telegram.svg" alt="https://t.me/EthanRouimi" height="50" width="50" /></a>
 </p>
 
 <h3 align="center">☕️ &nbsp;Support:</h3>
