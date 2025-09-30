@@ -62,7 +62,7 @@ Here are some ideas to get you started:
 <h3 align="center">🧰 &nbsp;Languages and Tools:</h3>
 <div align="center">
 
-[![My Skills](https://skillicons.dev/icons?i=neovim,linux,arch,bash,solidity,docker,rust,py,cs)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=neovim,linux,arch,bash,solidity,docker,rust,py,cs,c)](https://skillicons.dev)
 
 <div align="center">
 
