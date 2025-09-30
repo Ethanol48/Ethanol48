@@ -66,7 +66,7 @@ Here are some ideas to get you started:
 
 <div align="center">
 
-[![My Skills](https://skillicons.dev/icons?i=svelte,ts,js,html,css,ocaml)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=svelte,nextjs,ts,js,html,css,ocaml)](https://skillicons.dev)
 
 
 
