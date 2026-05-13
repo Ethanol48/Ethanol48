@@ -53,8 +53,8 @@ Here are some ideas to get you started:
  <h3 align="center">⚙️ &nbsp;GitHub Analytics</h3>
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats-livid-one-80.vercel.app/api?username=ethanol48&show_icons=true&bg_color=000000&text_color=f7f7f7&border_color=000000&ring_color=f79000&icon_color=f79000&title_color=f5f5f5&text_bold=false&count_private=true&card_width=500px"/>
-  <img height="180em" src="https://github-readme-stats-livid-one-80.vercel.app/api/top-langs/?username=ethanol48&bg_color=000000&text_color=f7f7f7&border_color=000000&count_private=true&title_color=f5f5f5&text_bold=true&hide=HTML,Lua,jupyter%20notebook,Shell,Svelte,scss,Javascript,TypeScript,css,Makefile&langs_count=6&hide_title=true&card_width=450px"/>
+  <img height="180em" src="https://readme-stats-kappa-ten.vercel.app/api?username=ethanol48&show_icons=true&bg_color=000000&text_color=f7f7f7&border_color=000000&ring_color=f79000&icon_color=f79000&title_color=f5f5f5&text_bold=false&count_private=true&card_width=500px"/>
+  <img height="180em" src="https://readme-stats-kappa-ten.vercel.app/api/top-langs/?username=ethanol48&bg_color=000000&text_color=f7f7f7&border_color=000000&count_private=true&title_color=f5f5f5&text_bold=true&hide=HTML,Lua,Dockerfile,jupyter%20notebook,scss,Javascript,css,Makefile,ShaderLab,Svelte,Shell,Mathematica,HLSL,c%23&langs_count=10&hide_title=true&card_width=450px"/>
 </a>
 </p>
 
