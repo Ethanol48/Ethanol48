@@ -54,7 +54,7 @@ Here are some ideas to get you started:
 
 <p align="center">
   <img height="180em" src="https://readme-stats-kappa-ten.vercel.app/api?username=ethanol48&show_icons=true&bg_color=000000&text_color=f7f7f7&border_color=000000&ring_color=f79000&icon_color=f79000&title_color=f5f5f5&text_bold=false&count_private=true&card_width=500px"/>
-  <img height="180em" src="https://readme-stats-kappa-ten.vercel.app/api/top-langs/?username=ethanol48&bg_color=000000&text_color=f7f7f7&border_color=000000&count_private=true&title_color=f5f5f5&text_bold=true&hide=HTML,Lua,Dockerfile,jupyter%20notebook,scss,Javascript,css,Makefile,ShaderLab,Svelte,Shell,Mathematica,HLSL,c%23&langs_count=10&hide_title=true&card_width=450px"/>
+  <img height="180em" src="https://github-readme-stats-organizations.vercel.app/api/top-langs/?username=ethanol48&bg_color=000000&text_color=f7f7f7&border_color=000000&count_private=true&title_color=f5f5f5&text_bold=true&hide=HTML,Lua,Dockerfile,jupyter%20notebook,scss,Javascript,css,c%2B%2B,Makefile,ShaderLab,Svelte,Shell,Mathematica,HLSL,Batchfile,PowerShell,CMake,TeX,ASP.NET,c%23&langs_count=10&hide_title=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&card_width=550px"/>
 </a>
 </p>
 
